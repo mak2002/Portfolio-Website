@@ -3,7 +3,14 @@ import React from 'react'
 export default function experience() {
     return (
         <div id="education">
-            <h1>Education</h1>
+
+            <div className="education-wrapper">
+
+            <p>I am a Second Year student pursuing my B.Tech Degree in Computer Science</p>
+            
+            </div>
+            
+
         </div>
     )
 }

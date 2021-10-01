@@ -13,11 +13,11 @@ export default function Sidebar() {
                 </li>
 
                 <li>
-                    <a href="#education">Education</a>
+                    <a href="#projects">Projects</a>
                 </li>
 
                 <li>
-                    <a href="#contactme">Contact me</a>
+                    <a href="#education">Education</a>
                 </li>
             </ul>
         </div>
