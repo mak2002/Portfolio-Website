@@ -14,7 +14,7 @@ export default function intro() {
 
                     {/* <span>Hello, </span><br /><br /> */}
 
-                        <p>I am junior. I am very interested in contributing to open source projects.
+                        <p>I am very interested in contributing to open source projects.
                         I am also very interested in learning new technologies.</p>       
                         <br />
 
