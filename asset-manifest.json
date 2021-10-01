@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.1f9259f7.chunk.css",
+    "main.js": "/Portfolio-Website/static/js/main.b64e17b6.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.b64e17b6.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.1979918c.js",
+    "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.1979918c.js.map",
+    "static/js/2.1b3b90c3.chunk.js": "/Portfolio-Website/static/js/2.1b3b90c3.chunk.js",
+    "static/js/2.1b3b90c3.chunk.js.map": "/Portfolio-Website/static/js/2.1b3b90c3.chunk.js.map",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/css/main.1f9259f7.chunk.css.map": "/Portfolio-Website/static/css/main.1f9259f7.chunk.css.map",
+    "static/js/2.1b3b90c3.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.1b3b90c3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portfolio-Website/static/media/keyboard.7dbe55a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1979918c.js",
+    "static/js/2.1b3b90c3.chunk.js",
+    "static/css/main.1f9259f7.chunk.css",
+    "static/js/main.b64e17b6.chunk.js"
+  ]
+}
